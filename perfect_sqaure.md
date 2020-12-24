@@ -6,4 +6,4 @@ Algorithm to find if a number is a perfect square
 4. If the result is zero the number is a perfect square
 
 
-For python implementation of this algoright please see my script [CountSquares.py](../)
+For python implementation of this algoright please see my script [CountSquares.py](https://github.com/mohanish12/pythonScripts/blob/main/CountSquares.py)
